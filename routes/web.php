@@ -10,7 +10,7 @@ Route::get('/', function(){
 
     $ratbagctlVersion = trim(shell_exec("ratbagctl -V"));
 
-    if(!version_compare("0.9.905", $ratbagctlVersion, '>=')){
+    if(version_compare("0.9.905", $ratbagctlVersion, '>=')){
 
         return view('home');
 
