@@ -25,4 +25,15 @@ Edit colors, mode, brightness and DPI
 
 * PWA available
 
+### Current limits (future improvements)
+
+* Tested only on Logitech G203
+* Accept to change only one color of the mouse (LED 0)
+* Macros have not been implemented
+* Profiles are not supported
+
+# Enjoy :)
+
+##### Developed by Filipe Reinert Silva
+
 
