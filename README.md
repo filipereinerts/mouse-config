@@ -21,3 +21,8 @@ Edit colors, mode, brightness and DPI
     * To access from another device on the same network execute `php artisan serve --host 0.0.0.0`
 * Access `http://localhost:8000` or `http://your-local-ip:8000`
 
+### Ohter Features
+
+* PWA available
+
+
