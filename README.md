@@ -1,6 +1,6 @@
-# Logitech Mouse Configuration
+# Mouse Configuration
 
-GUI for control logitech mouses
+GUI for control mouses
 
 ## Description
 
@@ -15,7 +15,7 @@ Edit colors, mode, brightness and DPI
 
 ### Installing
 
-* Clone this repository on the machine where logitech is connected
+* Clone this repository on the machine where mouse is connected
 * Go to project folder
 * Execute `php artisan serve`
     * To access from another device on the same network execute `php artisan serve --host 0.0.0.0`
