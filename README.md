@@ -18,6 +18,6 @@ Edit colors, mode, brightness and DPI
 * Clone this repository on the machine where logitech is connected
 * Go to project folder
 * Execute `php artisan serve`
-    * To access from another device on the same network execute `php artisan serve --host`
+    * To access from another device on the same network execute `php artisan serve --host 0.0.0.0`
 * Access `http://localhost:8000` or `http://your-local-ip:8000`
 
